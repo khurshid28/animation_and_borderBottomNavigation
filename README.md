@@ -4,4 +4,4 @@
 
 
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/khurshid28/animation_and_borderBottomNavigation/blob/main/screenshots/animation.gif.mp4)" width="40" height="40" />
+<img src="(https://github.com/khurshid28/animation_and_borderBottomNavigation/blob/main/screenshots/animation.gif.mp4)" width="40" height="40" />
