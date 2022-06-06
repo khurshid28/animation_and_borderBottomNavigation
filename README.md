@@ -3,7 +3,10 @@
 
 
 https://user-images.githubusercontent.com/95979088/172218140-2962998d-8823-42fa-b40e-5d1cf2bc54fb.mp4
-<img src="https://user-images.githubusercontent.com/95979088/172218216-a420d4a3-d943-46ff-9833-652c3d2dcb26.jpg" width="200" height="200" />
+
+
+
+<img src="https://user-images.githubusercontent.com/95979088/172218216-a420d4a3-d943-46ff-9833-652c3d2dcb26.jpg" width="200"  />
 
 
 
